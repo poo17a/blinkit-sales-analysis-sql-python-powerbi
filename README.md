@@ -145,7 +145,7 @@ Key steps performed:
 - Expand to real-time dashboards with live database connections.  
 
 ## Keywords
-SQL, MySQL, Python, pandas, matplotlib, seaborn, Power BI, Data Analysis, EDA, Data Cleaning  
-Business Intelligence, Retail Analytics, ETL Pipeline, Sales Insights, Visualization, Project Portfolio
+`SQL` · `MySQL` · `Python` · `pandas` · `matplotlib` · `seaborn` · `Power BI` · `Data Analysis` · `EDA` · `Data Cleaning` · `Business Intelligence` · `Retail Analytics` · `ETL Pipeline` · `Sales Insights` · `Visualization` · `Project Portfolio`
+
 
 
